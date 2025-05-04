@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-ProyectoSpringPersonalApplication<proyecto_spring_personal>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.proyecto_spring_personal.proyecto_spring_personal.ProyectoSpringPersonalApplication",
+            "projectName": "proyecto_spring_personal",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
