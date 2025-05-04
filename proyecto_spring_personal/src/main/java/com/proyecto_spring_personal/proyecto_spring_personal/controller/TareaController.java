@@ -7,7 +7,7 @@ import org.springframework.web.bind.annotation.RequestParam;
 
 
 @RestController
-@RequestMapping("/api/v1/todoapp")
+@RequestMapping()
 public class TareaController {
     @GetMapping("/status")
     public String getStatus() {
