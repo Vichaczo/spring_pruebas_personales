@@ -5,5 +5,5 @@ resta = 0
 dato1 = 9
 dato2 = 3
 resta = dato1 - dato2
-print("La resta es",resta)
+print("La resta es la siguiente",resta)
 print("Esto es otro mensaje!!")
