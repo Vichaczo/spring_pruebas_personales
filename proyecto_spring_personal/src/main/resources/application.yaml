@@ -1,0 +1,15 @@
+spring:
+    application:
+        name: proyecto_spring_personal
+    output:
+        ansi:
+            enabled: ALWAYS
+
+server:
+    port: 8080
+
+logging:
+    level:
+        root: INFO
+        org:
+            springframework: INFO
